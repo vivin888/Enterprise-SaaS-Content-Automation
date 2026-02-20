@@ -3,9 +3,6 @@
 <div align="center">
   <p><strong>Generate stunning AI-powered product videos in seconds — powered by Google Gemini AI, Cloudinary, and a modern full-stack architecture.</strong></p>
 
-  ![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/ai-video-generator?style=flat-square)
-  ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
-  ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)
 </div>
 
 ---
@@ -18,8 +15,6 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-7.x-646cff?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-12.x-ff0055?style=for-the-badge&logo=framer&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-7.x-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
 ### 🛠️ Backend
 
@@ -29,12 +24,7 @@
 ![Prisma](https://img.shields.io/badge/Prisma-7.x-2d3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Latest-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Services & Integrations
 
-![Clerk](https://img.shields.io/badge/Clerk-Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-Media-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-Monitoring-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
 ---
 
